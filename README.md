@@ -1,2 +1,0 @@
-# Anusha-Ramesh
-Excel projects
